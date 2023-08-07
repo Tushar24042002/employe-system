@@ -20,7 +20,7 @@
     "latest": "^0.2.0",
     "mongo-store": "^0.0.2",
     "mongoose": "^7.0.3",
-    "nodemon": "^2.0.22",
+    "nodemon": "^3.0.1",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0"
   }

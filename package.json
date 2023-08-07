@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node index.js"
+    "start": "node index.js"
   },
   "author": "tushar",
   "license": "ISC",
@@ -17,6 +17,7 @@
     "express": "^4.18.2",
     "express-ejs-layouts": "^2.5.1",
     "express-session": "^1.17.3",
+    "latest": "^0.2.0",
     "mongo-store": "^0.0.2",
     "mongoose": "^7.0.3",
     "nodemon": "^2.0.22",
